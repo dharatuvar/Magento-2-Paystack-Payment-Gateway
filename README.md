@@ -20,4 +20,4 @@ With Magento 2 Paystack Payment Gateway module, improve your marketing efforts u
 * Let customers check the payment details in "My Account" section.
 * The admin can check the payment details by navigating to Sales > Orders > Order View in the backend.
 
-For more information, visit : [https://meetanshi.com/magento-2-paystack-payment-gateway.html](https://meetanshi.com/magento-2-paystack-payment-gateway.html)
+For more information, visit : ***[https://meetanshi.com/magento-2-paystack-payment-gateway.html](https://meetanshi.com/magento-2-paystack-payment-gateway.html)***
